@@ -4,5 +4,5 @@ Machine Learning project for cancer cell classification using ML models
 The complete project implementation and results are available in:
 - `cancer_cell_detection.pdf`
  ##Notebook
-cancer_cell_detection.ipynb
+ML_cancer_cell_detection.ipynb
 
