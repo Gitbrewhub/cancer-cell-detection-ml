@@ -52,8 +52,8 @@ Scikit-learn
 Development Environment: Jupyter Notebook
 
 ## How to Run the Project
-git clone https://github.com/your-username/cancer-cell-detection.git
-cd cancer-cell-detection
+git clone (https://github.com/Gitbrewhub/cancer-cell-detection-ml.git)
+cd cancer-cell-detection-ml
 pip install -r requirements.txt
 Cancer_Cell_Detection.ipynb
 
